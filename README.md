@@ -30,7 +30,7 @@ The objective of the project is to build a CNN which can classify and differenti
 The project was built as a part of an Internship at Dr. Agarwal's Eye hospital, Tirunelveli.
 The aim of the is to create a neural network model that can classify if the image is Eye with Pterygium Positive or Pterygium Negative.
 
-<img src="<img src="https://github.com/navi1910/Pterygium-Detection-CNN/blob/master/Dr_Agarwals_logo.png" width=25% height=25%>
+<img src="https://github.com/navi1910/Pterygium-Detection-CNN/blob/master/Dr_Agarwals_logo.png" width=25% height=25%>
 
 Since Classificationis part of supervised learning, the model is provided with labelled dataset for training. These include images with and without Pterygium with different labels.
 This project was built on Google Colab platform.
