@@ -2,7 +2,7 @@
 # Eye Pterygium detection Using CNN
 CNN stands for Convolutional Neural networks. CNN is used when we have image data. This project was built using Google Colab and Tensorflow. Here we have used CNN for Image Classification. Classification is a type of supervised learning.
 
-<img src="https://github.com/navi1910/Pterygium-Detection-CNN/blob/master/colab_logo.png" width=25% height=25%>
+<img src="https://github.com/navi1910/Pterygium-Detection-CNN/blob/master/colab_logo.png" width=35% height=35%>
 
 ## Project Objective
 The objective of the project is to build a CNN which can classify and differentiate between images of Normal Eye and Eye with Pterygium.
